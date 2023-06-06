@@ -1,9 +1,8 @@
-<!-- <p align="center">
-  <img width="612" height="240" src="https://i.imgur.com/GHFShCv.png">
-</p> -->
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=nwvh&label=Profile%20Views&color=0e75b6&style=flat"/>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Gascanu&label=Profile%20Views&color=0e75b6&style=flat"/><br>
+
 
 <!-- ## 👋 About Me
 QBCore is an organization that provides open source code for the FiveM community. We pride ourselves on always advancing the way we develop and hope to pass that knowledge on to our community! -->
