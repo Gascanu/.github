@@ -8,7 +8,7 @@ QBCore is an organization that provides open source code for the FiveM community
 ## 📚 Documentation
 https://docs.qbcore.org/ -->
 
-## 👉 Join the community
+## 👉 Community
 [![NightCity](https://img.shields.io/badge/NightCity-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ytcMerzXxu)
 [![Guilded](https://img.shields.io/badge/Illusion-F4C400.svg?style=for-the-badge&logo=guilded&logoColor=white)](https://discord.gg/illusionro)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/qbcoreframework)
